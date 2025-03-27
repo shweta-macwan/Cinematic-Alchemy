@@ -41,14 +41,14 @@ Critics' Darlings (Avg. Reviews/Film):
 🥈 Brad Pitt (245 reviews)
 🥉 Meryl Streep (181 reviews) 
 
-# Epilogue: The Time Turner - Decadal Trends
+# Epilogue: The Time Turner - Decadal Trends
 Tracked voting patterns through cinematic history: 
 Voter Participation Growth:
 1920s: 116K votes
 2000s: 159M votes (1,370x increase!)
 2010s: 110M votes (Streaming era dip detected)
 
-# Final Cut: Key Insights
+# Final Cut: Key Insights
 Profit Paradox: High budgets don't guarantee profits (see: outlier films losing $100M+)
 Genre Alchemy: Family-Sci-Fi hybrids outperform pure action films by 4x
 Director Divergence: Cameron dominates profits, Chaplin wins critic love
